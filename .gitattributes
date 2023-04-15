@@ -1,1 +1,1 @@
-.python linguist-detectable=true
+$ cat .gitattributes*.js linguist-language=Python*.css linguist-language=Python
